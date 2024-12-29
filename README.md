@@ -1,5 +1,5 @@
 # Stack-Overflower-Developer-Survey-Analysis-with-IBM-Cognos and Jupyternotebook
-## 🎉  🎉
+## 🎉  Exploring the Developer Experience: Key Trends and Insights🎉
 
 I’m thrilled to share my very first data analysis report where I explored the Stack Overflow Developer Survey dataset to uncover fascinating trends in the tech industry. From programming languages to databases and work habits, this project has been an incredible learning journey.
 
@@ -11,3 +11,4 @@ Check out my report to uncover the trends and insights shaping the tech world. I
 Let’s connect and grow together in this exciting data-driven space! 🚀
 
 #DataAnalysis #TechTrends #LearningJourney #IBM #Coursera #Feedback
+[Stack Overflow Final Report.pdf](https://github.com/user-attachments/files/18270517/Stack.Overflow.Final.Report.pdf)
