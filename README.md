@@ -1,4 +1,4 @@
-# Stack-Overflower-Developer-Survey-Analysis-with-IBM-Cognos and Jupyternotebook
+# Stack-Overflower-Developer-Survey-Analysis-with-IBM-Cognos and Jupyter notebook
 ## 🎉  Exploring the Developer Experience: Key Trends and Insights🎉
 
 I’m thrilled to share my very first data analysis report where I explored the Stack Overflow Developer Survey dataset to uncover fascinating trends in the tech industry. From programming languages to databases and work habits, this project has been an incredible learning journey.
